@@ -1,1 +1,1 @@
-# Trivial
+# Trivial Program
